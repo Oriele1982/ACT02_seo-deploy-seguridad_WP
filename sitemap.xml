@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/blog/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/sample-page/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/aseo/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/hello-world/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/category/uncategorized/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://186.64.118.50/~feg7denisse/author/pinklightsaber/</loc>
+  <lastmod>2018-07-12T01:16:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -36,3 +36,16 @@ Cuando termines crea un **README.md** que contenga lo siguiente:
 Al finalizar debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 ##### **Mucha suerte!**
+
+##### Respuestas
+- URL del sitio web en producción.
+http://186.64.118.50/~feg7denisse
+
+- Screenshot de la integración de Google Search Console con el sitio web
+(img/Googlesearchconsole.jpg)
+
+- URL del sitemap creado
+http://186.64.118.50/~feg7denisse/sitemap_index.xml
+- Screenshot de la integración con Google Search Console
+- Listado con los aspectos de seguridad que optimizaste dentro de la página web
+Actualización de todo, una clave segura e instalar Wordfence para realizar un escaneo
